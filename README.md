@@ -19,12 +19,10 @@ The program supports the following commands:
 
 ## Usage
 1. Run the program.
-2. Enter the filename for the bank accounts data.
+2. Enter the filename for the bank account data.
 3. Enter any number of banking commands as listed above.
 4. Enter x to exit the program.
 5. The program will then save the new account data back to the file.
 
 ## Copyright and Plagiarism Notice
-All content in this repository, including code, documentation, and other materials, is the property of Rimsha Rizvi. This work is submitted for CS 141 - Program Design II at University of Illinois at Chicago.
-Plagiarism is a serious offense and is strictly prohibited. You may not use, copy, or submit this work as your own. Any instances of plagiarism or unauthorized use will be reported to the relevant academic or professional authorities.
-If you would like to use this work for educational or other non-commercial purposes, please contact the author for permission.
+This work is submitted for CS 141 - Program Design II at the University of Illinois at Chicago. Plagiarism is a serious offense and is strictly prohibited. You may not use, copy, or submit this work as your own. Any plagiarism or unauthorized use will be reported to the relevant academic or professional authorities. If you would like to use this work for educational or other non-commercial purposes, don't hesitate to get in touch with the author for permission.
